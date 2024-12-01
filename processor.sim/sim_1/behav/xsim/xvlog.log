@@ -1,0 +1,54 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/ALU_Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Control_Unit_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Decoder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'ALU_Decoder' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/ALU_Decoder.v:23]
+INFO: [VRFC 10-311] analyzing module Main_Decoder
+INFO: [VRFC 10-311] analyzing module Control_Unit_Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Main_Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Main_Decoder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Main_Decoder' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Main_Decoder.v:23]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_Module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/PC_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Register_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Sign_Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Single_Cycle_Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_Module
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'PC_Module' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/PC.v:23]
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Instruction_Memory' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Instruction_Memory.v:23]
+INFO: [VRFC 10-311] analyzing module Register_File
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Register_File' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Register_File.v:23]
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Sign_Extend' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Sign_Extend.v:23]
+INFO: [VRFC 10-311] analyzing module ALU
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'ALU' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/ALU.v:23]
+INFO: [VRFC 10-311] analyzing module ALU_Decoder
+INFO: [VRFC 10-311] analyzing module Main_Decoder
+INFO: [VRFC 10-311] analyzing module Control_Unit_Top
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Control_Unit_Top' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Control_Unit_Top.v:25]
+INFO: [VRFC 10-311] analyzing module Data_Memory
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Data_Memory' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Data_Memory.v:23]
+INFO: [VRFC 10-311] analyzing module PC_Adder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'PC_Adder' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/PC_Adder.v:24]
+INFO: [VRFC 10-311] analyzing module Mux
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'Mux' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/Mux.v:23]
+INFO: [VRFC 10-311] analyzing module stack
+INFO: [VRFC 10-311] analyzing module Single_Cycle_Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/stack.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stack
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'stack' [C:/Users/arjun/Documents/project/processor3/processor.srcs/sources_1/new/stack.v:23]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/arjun/Documents/project/processor3/processor.srcs/sim_1/new/Single_Cycle_Top_Tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Single_Cycle_Top_Tb
